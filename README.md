@@ -1,0 +1,1 @@
+Will contain JavaScript code written while working through [study plan](https://www.github.com/akbur/majorStudyPlan).
